@@ -1,57 +1,54 @@
-# Hi, I'm Pradeep 👋
+# Hi, I'm Pradeep K
 
-**AI/ML & LLM Engineer** — building intelligent systems with multi-agent frameworks, RAG pipelines, and LLMs.  
-📍 Bengaluru, India · 📧 pradeepkarna1120@gmail.com · Open to **AI/ML fresher roles & internships**
+AI/ML graduate building LLM applications, retrieval-augmented generation systems, and practical machine learning products with Python.
 
----
+Bengaluru, India  
+pradeepkarna1120@gmail.com  
+Open to full-time AI/ML Engineer, LLM Engineer, and Applied AI roles
 
-## 🛠️ Tech Stack
+## Focus
 
-**LLMs & Agents:** LangChain · LangGraph · CrewAI · Semantic Kernel · Azure OpenAI · GPT-4o  
-**RAG & Search:** Hybrid RAG · Qdrant · FAISS · Azure AI Search · BM25 · Cross-encoder reranking  
-**ML:** XGBoost · scikit-learn · Pandas · NumPy  
-**APIs & Infra:** FastAPI · Streamlit · Docker · Redis  
-**Languages:** Python · SQL
+- LLM application engineering
+- Retrieval-augmented generation
+- Evaluation, grounding, and hallucination analysis
+- Applied machine learning
+- FastAPI-based backend systems
+- Deployable AI demos and tools
 
----
+## Tech Stack
 
-## 🚀 Featured Projects
+**LLM and RAG:** LangChain, LangGraph, CrewAI, Semantic Kernel, Azure OpenAI, GPT-4o, Qdrant, FAISS, Azure AI Search, BM25, cross-encoder reranking  
+**Machine Learning:** XGBoost, scikit-learn, Pandas, NumPy  
+**Backend and Infra:** FastAPI, Streamlit, Docker, Redis  
+**Languages:** Python, SQL
 
-### 🏆 [RiskWise 2.0](https://github.com/pradeek1120/riskwise-2.0) — Microsoft AI Dev Days Hackathon 2026
-Autonomous 5-agent AI platform for real-time supply chain risk & tariff intelligence.  
-`LangGraph` `Azure OpenAI` `Semantic Kernel` `FastAPI` `Streamlit`
+## Selected Projects
 
-### 🔍 [Vector Fusion RAG](https://github.com/pradeek1120/vector-fusion-rag)
-Production-grade hybrid RAG — dense + sparse search, RRF fusion, cross-encoder reranking.  
+### [Vector Fusion RAG](https://github.com/pradeek1120/vector-fusion-rag)
+Production-grade hybrid RAG project using dense plus sparse retrieval, RRF fusion, and cross-encoder reranking.  
 `LangGraph` `Qdrant` `FastAPI` `Redis` `Docker` `GPT-4o`
 
-### 🤖 [Supply Chain Risk (CrewAI)](https://github.com/pradeek1120/supply-chain-risk-assessment-using-crewAI)
-Multi-agent risk assessment pipeline built with CrewAI.  
-`CrewAI` `Python`
+### [RiskWise 2.0](https://github.com/pradeek1120/riskwise-2.0)
+AI-powered supply chain risk and tariff intelligence platform built for Microsoft AI Dev Days Hackathon 2026.  
+`LangGraph` `Azure OpenAI` `Semantic Kernel` `FastAPI` `Streamlit`
 
-### 💳 [Smart Loan Recovery](https://github.com/pradeek1120/smart-loan-recovery-system)
-ML model to predict and prioritize loan recovery using classification algorithms.  
-`XGBoost` `scikit-learn` `Jupyter`
+### [Healthcare Monitoring System using XGBoost](https://github.com/pradeek1120/healthcare-monitoring-system-using-XGBoost)
+Predictive analytics project for healthcare monitoring and classification using XGBoost.  
+`XGBoost` `scikit-learn` `Pandas` `Python`
 
-### 🏥 [Healthcare Monitoring](https://github.com/pradeek1120/healthcare-monitoring-system-using-XGBoost)
-Patient health risk monitoring with XGBoost and feature engineering.  
-`XGBoost` `Jupyter` `Python`
+### [Churn Prediction](https://github.com/pradeek1120/churn-prediction)
+Machine learning project for customer churn prediction using structured business data.  
+`Python` `scikit-learn` `Pandas`
 
----
+## Currently Building
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeek1120&show_icons=true&theme=tokyonight&hide_border=true)
+- Better RAG evaluation workflows
+- More production-style AI projects
+- Cleaner project documentation and developer experience
 
-<!--
-**pradeek1120/pradeek1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Snapshot
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pradeek1120&show_icons=true&rank_icon=github&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=2563eb&border_color=e5e7eb" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeek1120&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=334155&border_color=e5e7eb" alt="Top languages" />
+</p>
