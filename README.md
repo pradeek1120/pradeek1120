@@ -56,6 +56,12 @@ Awarded to: Pradeep K
 Certificate ID: `KvtSMH-QQkO7XhUCYGW3VA`  
 Credential ID: `6YSchyAvQGWRCf1CJoKOIw`
 
+### Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+Oracle  
+Issued: September 15, 2025  
+Awarded to: Pradeep K  
+Verification: [View badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C11FDE32A1EE9B2D60F24D60945E43BE643F461E6126393D7E1D5DA2C10D2BC1)
+
 ## Currently Building
 
 - Better RAG evaluation workflows
