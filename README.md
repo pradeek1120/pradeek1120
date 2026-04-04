@@ -47,7 +47,8 @@ NVIDIA
 Issued: April 4, 2026  
 Awarded to: Pradeep K  
 Certificate ID: `eBRccYyjRAelrPzYzJgUIg`  
-Credential ID: `j2Df5LzUQ5SHZbV4YqnMKg`
+Credential ID: `j2Df5LzUQ5SHZbV4YqnMKg`  
+Verification: [View certificate](https://learn.nvidia.com/certificates?id=eBRccYyjRAelrPzYzJgUIg)
 
 ### Generative AI with Diffusion Models
 NVIDIA  
