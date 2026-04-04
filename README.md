@@ -49,6 +49,13 @@ Awarded to: Pradeep K
 Certificate ID: `eBRccYyjRAelrPzYzJgUIg`  
 Credential ID: `j2Df5LzUQ5SHZbV4YqnMKg`
 
+### Generative AI with Diffusion Models
+NVIDIA  
+Issued: April 3, 2026  
+Awarded to: Pradeep K  
+Certificate ID: `KvtSMH-QQkO7XhUCYGW3VA`  
+Credential ID: `6YSchyAvQGWRCf1CJoKOIw`
+
 ## Currently Building
 
 - Better RAG evaluation workflows
