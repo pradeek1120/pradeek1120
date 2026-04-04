@@ -40,6 +40,15 @@ Predictive analytics project for healthcare monitoring and classification using 
 Machine learning project for customer churn prediction using structured business data.  
 `Python` `scikit-learn` `Pandas`
 
+## Certifications
+
+### Building RAG Agents with LLMs
+NVIDIA  
+Issued: April 4, 2026  
+Awarded to: Pradeep K  
+Certificate ID: `eBRccYyjRAelrPzYzJgUIg`  
+Credential ID: `j2Df5LzUQ5SHZbV4YqnMKg`
+
 ## Currently Building
 
 - Better RAG evaluation workflows
