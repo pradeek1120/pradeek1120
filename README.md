@@ -48,6 +48,7 @@ Issued: April 4, 2026
 Awarded to: Pradeep K  
 Certificate ID: `eBRccYyjRAelrPzYzJgUIg`  
 Credential ID: `j2Df5LzUQ5SHZbV4YqnMKg`  
+Project relevance: [Vector Fusion RAG](https://github.com/pradeek1120/vector-fusion-rag) and [RiskWise 2.0](https://github.com/pradeek1120/riskwise-2.0)  
 Verification: [View certificate](https://learn.nvidia.com/certificates?id=eBRccYyjRAelrPzYzJgUIg)
 
 ### Generative AI with Diffusion Models
@@ -56,6 +57,7 @@ Issued: April 3, 2026
 Awarded to: Pradeep K  
 Certificate ID: `KvtSMH-QQkO7XhUCYGW3VA`  
 Credential ID: `6YSchyAvQGWRCf1CJoKOIw`  
+Project relevance: broader generative AI foundations relevant to [RiskWise 2.0](https://github.com/pradeek1120/riskwise-2.0) and future multimodal work  
 Verification: [View certificate](https://learn.nvidia.com/certificates?id=KvtSMH-QQkO7XhUCYGW3VA)
 
 ### Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
@@ -64,6 +66,7 @@ Issued: September 15, 2025
 Awarded to: Pradeep K  
 Credential ID: `C11FDE32A1EE9B2D60F24D60945E43BE643F461E6126393D7E1D5DA2C10D2BC1`  
 Expires: September 15, 2027  
+Project relevance: cloud and deployment readiness for production AI systems such as [Vector Fusion RAG](https://github.com/pradeek1120/vector-fusion-rag) and [RiskWise 2.0](https://github.com/pradeek1120/riskwise-2.0)  
 Verification: [View badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C11FDE32A1EE9B2D60F24D60945E43BE643F461E6126393D7E1D5DA2C10D2BC1)
 
 ## Currently Building
