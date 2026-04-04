@@ -54,7 +54,8 @@ NVIDIA
 Issued: April 3, 2026  
 Awarded to: Pradeep K  
 Certificate ID: `KvtSMH-QQkO7XhUCYGW3VA`  
-Credential ID: `6YSchyAvQGWRCf1CJoKOIw`
+Credential ID: `6YSchyAvQGWRCf1CJoKOIw`  
+Verification: [View certificate](https://learn.nvidia.com/certificates?id=KvtSMH-QQkO7XhUCYGW3VA)
 
 ### Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 Oracle  
