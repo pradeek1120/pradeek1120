@@ -1,83 +1,174 @@
-# Hi, I'm Pradeep K
+# Hi, I'm Pradeep K 👋
 
-AI/ML graduate building LLM applications, retrieval-augmented generation systems, and practical machine learning products with Python.
+### AI Engineer | AI Inference Engineer | ML Systems | LLM Engineer
 
-Bengaluru, India  
-pradeepkarna1120@gmail.com  
-Open to full-time AI/ML Engineer, LLM Engineer, and Applied AI roles
+Building production-ready AI systems, LLM inference pipelines, GPU optimization tools, and Agentic AI applications.
 
-## Focus
+📍 Bengaluru, India  
+📧 pradeepkarna1120@gmail.com  
+💼 Open to Full-time AI Engineer, AI Inference Engineer, LLM Engineer & GenAI Engineer roles
 
-- LLM application engineering
-- Retrieval-augmented generation
-- Evaluation, grounding, and hallucination analysis
-- Applied machine learning
-- FastAPI-based backend systems
-- Deployable AI demos and tools
+---
 
-## Tech Stack
+## 🚀 About Me
 
-**LLM and RAG:** LangChain, LangGraph, CrewAI, Semantic Kernel, Azure OpenAI, GPT-4o, Qdrant, FAISS, Azure AI Search, BM25, cross-encoder reranking  
-**Machine Learning:** XGBoost, scikit-learn, Pandas, NumPy  
-**Backend and Infra:** FastAPI, Streamlit, Docker, Redis  
-**Languages:** Python, SQL
+I'm an AI/ML graduate passionate about solving real-world problems with AI systems rather than just building demos.
 
-## Selected Projects
+My interests include:
 
-### [Vector Fusion RAG](https://github.com/pradeek1120/vector-fusion-rag)
-Production-grade hybrid RAG project using dense plus sparse retrieval, RRF fusion, and cross-encoder reranking.  
-`LangGraph` `Qdrant` `FastAPI` `Redis` `Docker` `GPT-4o`
+- 🤖 Large Language Models (LLMs)
+- ⚡ AI Inference Optimization
+- 🖥 GPU Performance Engineering
+- 🧠 ML Systems
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤝 Multi-Agent AI Systems
+- 📊 AI Evaluation & Hallucination Analysis
+- ☁️ Cloud-native AI Deployment
 
-### [RiskWise 2.0](https://github.com/pradeek1120/riskwise-2.0)
-AI-powered supply chain risk and tariff intelligence platform built for Microsoft AI Dev Days Hackathon 2026.  
-`LangGraph` `Azure OpenAI` `Semantic Kernel` `FastAPI` `Streamlit`
+---
 
-### [Healthcare Monitoring System using XGBoost](https://github.com/pradeek1120/healthcare-monitoring-system-using-XGBoost)
-Predictive analytics project for healthcare monitoring and classification using XGBoost.  
-`XGBoost` `scikit-learn` `Pandas` `Python`
+# 🛠 Tech Stack
 
-### [Churn Prediction](https://github.com/pradeek1120/churn-prediction)
-Machine learning project for customer churn prediction using structured business data.  
-`Python` `scikit-learn` `Pandas`
+### 👨‍💻 Languages
 
-## Certifications
+Python • C++ • C • SQL • R
 
-### Building RAG Agents with LLMs
-NVIDIA  
-Issued: April 4, 2026  
-Awarded to: Pradeep K  
-Certificate ID: `eBRccYyjRAelrPzYzJgUIg`  
-Credential ID: `j2Df5LzUQ5SHZbV4YqnMKg`  
-Project relevance: [Vector Fusion RAG](https://github.com/pradeek1120/vector-fusion-rag) and [RiskWise 2.0](https://github.com/pradeek1120/riskwise-2.0)  
-Verification: [View certificate](https://learn.nvidia.com/certificates?id=eBRccYyjRAelrPzYzJgUIg)
+### 🤖 AI / Machine Learning
 
-### Generative AI with Diffusion Models
-NVIDIA  
-Issued: April 3, 2026  
-Awarded to: Pradeep K  
-Certificate ID: `KvtSMH-QQkO7XhUCYGW3VA`  
-Credential ID: `6YSchyAvQGWRCf1CJoKOIw`  
-Project relevance: broader generative AI foundations relevant to [RiskWise 2.0](https://github.com/pradeek1120/riskwise-2.0) and future multimodal work  
-Verification: [View certificate](https://learn.nvidia.com/certificates?id=KvtSMH-QQkO7XhUCYGW3VA)
+PyTorch • Hugging Face Transformers • PEFT • TRL • LoRA • DPO • Scikit-learn • XGBoost • NumPy • Pandas
 
-### Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-Oracle  
-Issued: September 15, 2025  
-Awarded to: Pradeep K  
-Credential ID: `C11FDE32A1EE9B2D60F24D60945E43BE643F461E6126393D7E1D5DA2C10D2BC1`  
-Expires: September 15, 2027  
-Project relevance: cloud and deployment readiness for production AI systems such as [Vector Fusion RAG](https://github.com/pradeek1120/vector-fusion-rag) and [RiskWise 2.0](https://github.com/pradeek1120/riskwise-2.0)  
-Verification: [View badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C11FDE32A1EE9B2D60F24D60945E43BE643F461E6126393D7E1D5DA2C10D2BC1)
+### 🧠 LLM & Agentic AI
 
-## Currently Building
+LangChain • LangGraph • LlamaIndex • Google ADK • MCP • CrewAI • Semantic Kernel • Prompt Engineering
 
-- Better RAG evaluation workflows
-- More production-style AI projects
-- Cleaner project documentation and developer experience
+### ⚡ AI Inference & GPU
 
-## GitHub Snapshot
+ROCm • AMD Instinct MI300X • Quantization • FP8 • MXFP4 • Triton Inference Server • vLLM • GPU Profiling • Kernel Optimization • Performance Benchmarking
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pradeek1120&show_icons=true&rank_icon=github&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=2563eb&border_color=e5e7eb" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeek1120&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=334155&border_color=e5e7eb" alt="Top languages" />
-</p>
+### ☁️ Backend & Cloud
+
+FastAPI • Docker • Cloud Run • Vertex AI • AlloyDB • Azure OpenAI • Redis • Git • GitHub
+
+---
+
+# 🌟 Featured Projects
+
+## ⚡ ProfiloAI – AMD GPU Performance Doctor
+
+> AI assistant that converts ROCm profiler output into actionable GPU optimization recommendations.
+
+### Highlights
+
+- LoRA Supervised Fine-Tuning
+- Direct Preference Optimization (DPO)
+- AMD Instinct MI300X
+- ROCm
+- Hugging Face
+- GPU Performance Diagnostics
+- vLLM Serving
+- Gradio Deployment
+- Benchmark Evaluation
+
+---
+
+## 🚀 LLM Kernel Optimization on AMD MI355X
+
+> Low-level AI inference optimization for AMD Instinct MI355X GPUs.
+
+### Highlights
+
+- FP8
+- MXFP4
+- GEMM Optimization
+- Mixture-of-Experts
+- Mixed MLA Decode
+- Runtime Optimization
+- Quantized Inference
+- Kernel Dispatch
+- Latency Benchmarking
+
+---
+
+## 🛠 Self-Healing RAG Environment
+
+> OpenEnv benchmark where autonomous agents detect hallucinations, repair stale knowledge bases, and verify corrected responses.
+
+### Highlights
+
+- OpenEnv
+- Hallucination Detection
+- RAG Evaluation
+- AI Safety
+- Grounding
+- Multi-Step Agent Workflow
+- Knowledge Base Repair
+
+---
+
+## 🤖 Multi-Agent Productivity Assistant
+
+> API-first productivity platform powered by Gemini, Google ADK, MCP, AlloyDB, and Cloud Run.
+
+### Highlights
+
+- Google ADK
+- Gemini
+- MCP
+- FastAPI
+- AlloyDB
+- Cloud Run
+- Multi-Agent Orchestration
+- Workflow Automation
+
+---
+
+# 🏆 Certifications
+
+- Oracle Cloud Infrastructure Generative AI Professional
+- NVIDIA Building RAG Agents with LLMs
+- NVIDIA Fundamentals of Deep Learning
+- NVIDIA Generative AI with Diffusion Models
+- ITU – Digital-Intelligent Convergence & Security
+
+---
+
+# 📚 Currently Learning
+
+- FlashAttention
+- KV Cache Optimization
+- AI Inference Optimization
+- GPU Kernel Programming
+- Triton
+- vLLM Internals
+- Distributed LLM Serving
+- ML Systems Design
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeek1120&show_icons=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeek1120&layout=compact)
+
+---
+
+# 🤝 Let's Connect
+
+💼 LinkedIn  
+https://linkedin.com/in/pradeepkarna
+
+🐙 GitHub  
+https://github.com/pradeek1120
+
+🤗 Hugging Face  
+https://huggingface.co/Pradeerock
+
+📧 Email  
+pradeepkarna1120@gmail.com
+
+---
+
+## 💡 Motto
+
+> **Building efficient, scalable, and production-ready AI systems—from GPU kernels to intelligent agents.**
