@@ -27,6 +27,8 @@ I am an AI/ML graduate interested in the engineering details that make AI useful
 
 An AI assistant for AMD ROCm developers. It reads profiler output or training metrics, explains the likely GPU bottleneck in plain English, and suggests a concrete optimization. The project includes MI300X fine-tuning, DPO alignment, evaluation, vLLM serving, and a Gradio demo.
 
+**Live demo:** [Try ProfiloAI on Hugging Face](https://huggingface.co/spaces/Pradeerock/profiloai)
+
 **Explore:** [README](https://github.com/pradeek1120/profiloai/blob/main/README.md) · [SFT training](https://github.com/pradeek1120/profiloai/blob/main/training/04_finetune_sft.py) · [Benchmarking](https://github.com/pradeek1120/profiloai/blob/main/evaluation/benchmark_comparison.py)
 
 `LoRA` `DPO` `MI300X` `ROCm` `vLLM` `Gradio`
@@ -37,13 +39,13 @@ A low-level inference case study built around three AMD GPU workloads: MXFP4 GEM
 
 **Explore:** [README](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/README.md) · [MXFP4 GEMM](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/submissions/amd-mxfp4-mm/submission_v6.py) · [MoE MXFP4](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/submissions/amd-moe-mxfp4/submission_v2.py) · [Mixed MLA](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/submissions/amd-mixed-mla/submission_v5.py) · [Benchmark summary](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/docs/benchmark-summary.md)
 
-*The repository is currently private, so viewers need access to open these project files.*
-
 `FP8` `MXFP4` `GEMM` `Kernel Optimization` `Latency Benchmarking`
 
 ### [Self-Healing RAG Environment](https://github.com/pradeek1120/self-healing-rag)
 
 An OpenEnv benchmark for agents that work with stale or conflicting knowledge. The agent must detect a hallucination, identify the outdated source document, repair the knowledge base, and verify the corrected answer. Ground-truth labels stay hidden from the agent to make the evaluation meaningful.
+
+**Live demo:** [Open the Hugging Face Space](https://huggingface.co/spaces/Pradeerock/self-healing-rag) · [API docs](https://pradeerock-self-healing-rag.hf.space/docs)
 
 **Explore:** [README](https://github.com/pradeek1120/self-healing-rag/blob/main/README.md) · [Agent inference](https://github.com/pradeek1120/self-healing-rag/blob/main/inference.py) · [Task suite](https://github.com/pradeek1120/self-healing-rag/blob/main/tasks.py)
 
