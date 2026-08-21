@@ -21,37 +21,31 @@ I build production-minded AI systems: from GPU kernels and LLM serving to ground
 
 I am an AI/ML graduate interested in the engineering details that make AI useful in the real world: latency, cost, evaluation, reliability, and deployment.
 
-## Projects & Repositories
+## Featured Projects
 
-### [Vector Fusion RAG](https://github.com/pradeek1120/vector-fusion-rag)
+### ProfiloAI - AMD GPU Performance Doctor
 
-A retrieval-augmented generation project focused on combining vector search with grounded LLM responses.
+An AI assistant that turns ROCm profiler output into actionable GPU optimization recommendations.
 
-`RAG` `Vector Search` `LLMs`
+`LoRA` `DPO` `MI300X` `ROCm` `vLLM` `Gradio` `Benchmarking`
 
-### [DPO Project](https://github.com/pradeek1120/dpo-project)
+### LLM Kernel Optimization on AMD MI355X
 
-A preference-optimization project exploring Direct Preference Optimization for language models.
+Low-level inference optimization across FP8, MXFP4, GEMM, Mixture-of-Experts, and MLA decode workloads.
 
-`Python` `DPO` `LLM Fine-Tuning`
+`Quantization` `Kernel Dispatch` `Runtime Optimization` `Latency Benchmarking`
 
-### [Smart Loan Recovery System](https://github.com/pradeek1120/smart-loan-recovery-system)
+### Self-Healing RAG Environment
 
-A machine learning system for loan recovery and risk-focused decision support.
+An OpenEnv benchmark where autonomous agents detect hallucinations, repair stale knowledge bases, and verify corrected responses.
 
-`Machine Learning` `Python` `Prediction`
+`RAG Evaluation` `Grounding` `AI Safety` `Multi-Step Agents`
 
-### [Healthcare Monitoring System](https://github.com/pradeek1120/healthcare-monitoring-system-using-XGBoost)
+### Multi-Agent Productivity Assistant
 
-A healthcare monitoring project using XGBoost-based prediction and analysis.
+An API-first productivity platform built with Gemini, Google ADK, MCP, AlloyDB, and Cloud Run.
 
-`XGBoost` `Healthcare AI` `Classification`
-
-### [Churn Prediction](https://github.com/pradeek1120/churn-prediction)
-
-A predictive analytics project for identifying customer churn patterns.
-
-`Scikit-learn` `Classification` `Analytics`
+`FastAPI` `Gemini` `MCP` `AlloyDB` `Workflow Automation`
 
 ## Toolkit
 
