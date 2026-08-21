@@ -31,11 +31,13 @@ An AI assistant for AMD ROCm developers. It reads profiler output or training me
 
 `LoRA` `DPO` `MI300X` `ROCm` `vLLM` `Gradio`
 
-### LLM Kernel Optimization on AMD MI355X
+### [LLM Kernel Optimization on AMD MI355X](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x)
 
-A low-level inference optimization project focused on improving LLM execution on AMD Instinct hardware. The work covers FP8 and MXFP4 quantization, GEMM performance, Mixture-of-Experts workloads, MLA decode, kernel dispatch, and latency benchmarking.
+A low-level inference case study built around three AMD GPU workloads: MXFP4 GEMM, MoE MXFP4, and Mixed MLA decode. It documents how quantization-aware kernel dispatch, runtime-path tuning, metadata reuse, and benchmark-driven iteration improved latency while preserving correctness.
 
-*The public repository link for this project is not available yet.*
+**Explore:** [README](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/README.md) · [MXFP4 GEMM](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/submissions/amd-mxfp4-mm/submission_v6.py) · [MoE MXFP4](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/submissions/amd-moe-mxfp4/submission_v2.py) · [Mixed MLA](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/submissions/amd-mixed-mla/submission_v5.py) · [Benchmark summary](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x/blob/main/docs/benchmark-summary.md)
+
+*The repository is currently private, so viewers need access to open these project files.*
 
 `FP8` `MXFP4` `GEMM` `Kernel Optimization` `Latency Benchmarking`
 
