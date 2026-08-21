@@ -23,29 +23,37 @@ I am an AI/ML graduate interested in the engineering details that make AI useful
 
 ## Featured Projects
 
-### ProfiloAI - AMD GPU Performance Doctor
+### [ProfiloAI - AMD GPU Performance Doctor](https://github.com/pradeek1120/profiloai)
 
-An AI assistant that turns ROCm profiler output into actionable GPU optimization recommendations.
+An AI assistant for AMD ROCm developers. It reads profiler output or training metrics, explains the likely GPU bottleneck in plain English, and suggests a concrete optimization. The project includes MI300X fine-tuning, DPO alignment, evaluation, vLLM serving, and a Gradio demo.
 
-`LoRA` `DPO` `MI300X` `ROCm` `vLLM` `Gradio` `Benchmarking`
+**Explore:** [README](https://github.com/pradeek1120/profiloai/blob/main/README.md) · [SFT training](https://github.com/pradeek1120/profiloai/blob/main/training/04_finetune_sft.py) · [Benchmarking](https://github.com/pradeek1120/profiloai/blob/main/evaluation/benchmark_comparison.py)
+
+`LoRA` `DPO` `MI300X` `ROCm` `vLLM` `Gradio`
 
 ### LLM Kernel Optimization on AMD MI355X
 
-Low-level inference optimization across FP8, MXFP4, GEMM, Mixture-of-Experts, and MLA decode workloads.
+A low-level inference optimization project focused on improving LLM execution on AMD Instinct hardware. The work covers FP8 and MXFP4 quantization, GEMM performance, Mixture-of-Experts workloads, MLA decode, kernel dispatch, and latency benchmarking.
 
-`Quantization` `Kernel Dispatch` `Runtime Optimization` `Latency Benchmarking`
+*The public repository link for this project is not available yet.*
 
-### Self-Healing RAG Environment
+`FP8` `MXFP4` `GEMM` `Kernel Optimization` `Latency Benchmarking`
 
-An OpenEnv benchmark where autonomous agents detect hallucinations, repair stale knowledge bases, and verify corrected responses.
+### [Self-Healing RAG Environment](https://github.com/pradeek1120/self-healing-rag)
 
-`RAG Evaluation` `Grounding` `AI Safety` `Multi-Step Agents`
+An OpenEnv benchmark for agents that work with stale or conflicting knowledge. The agent must detect a hallucination, identify the outdated source document, repair the knowledge base, and verify the corrected answer. Ground-truth labels stay hidden from the agent to make the evaluation meaningful.
 
-### Multi-Agent Productivity Assistant
+**Explore:** [README](https://github.com/pradeek1120/self-healing-rag/blob/main/README.md) · [Agent inference](https://github.com/pradeek1120/self-healing-rag/blob/main/inference.py) · [Task suite](https://github.com/pradeek1120/self-healing-rag/blob/main/tasks.py)
 
-An API-first productivity platform built with Gemini, Google ADK, MCP, AlloyDB, and Cloud Run.
+`RAG Evaluation` `OpenEnv` `Grounding` `AI Safety`
 
-`FastAPI` `Gemini` `MCP` `AlloyDB` `Workflow Automation`
+### [Multi-Agent Productivity Assistant](https://github.com/pradeek1120/Multi-Agent-Productivity-Assistant)
+
+An API-first assistant that turns a natural-language goal into a structured workflow. Its agents retrieve context, plan the work, create tasks and notes, schedule calendar events, and return a clean result through a FastAPI endpoint. The system uses Gemini, Google ADK, MCP Toolbox, AlloyDB, and Cloud Run.
+
+**Explore:** [README](https://github.com/pradeek1120/Multi-Agent-Productivity-Assistant/blob/main/README.md) · [Agent workflow](https://github.com/pradeek1120/Multi-Agent-Productivity-Assistant/blob/main/productivity_agent/agent.py) · [MCP tools](https://github.com/pradeek1120/Multi-Agent-Productivity-Assistant/blob/main/toolbox/tools.yaml)
+
+`FastAPI` `Gemini` `Google ADK` `MCP` `AlloyDB`
 
 ## Toolkit
 
