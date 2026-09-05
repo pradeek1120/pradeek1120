@@ -74,13 +74,17 @@ calendar events, and return clean results through FastAPI.
 
 ## Technical Toolkit
 
-| Area | Tools |
-| --- | --- |
-| Languages | Python · C++ · C · SQL · R |
-| ML | PyTorch · Transformers · PEFT · TRL · Scikit-learn · XGBoost |
-| LLM and agents | LangChain · LangGraph · LlamaIndex · Google ADK · MCP · CrewAI |
-| Serving | ROCm · Triton Inference Server · vLLM · Docker · FastAPI · Redis |
-| Cloud | Cloud Run · Vertex AI · AlloyDB · Azure OpenAI |
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111827) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ML and LLM
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FCC624?style=for-the-badge&logo=huggingface&logoColor=111827) ![LangGraph](https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge) ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge)
+
+### Serving and Cloud
+
+![ROCm](https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![Triton](https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-0F766E?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ## Currently Exploring
 
