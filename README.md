@@ -77,4 +77,4 @@ An API-first assistant that turns a natural-language goal into a structured work
 
 ---
 
-> Building efficient, scalable AI systems, from GPU kernels to intelligent agents.  
+> Building efficient, scalable AI systems, from GPU kernels to intelligent agents.
