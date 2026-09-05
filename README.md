@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:06B6D4,100:10B981&height=170&section=header&text=AI%20Engineering%20%7C%20Inference%20%7C%20Agents&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="AI Engineering, Inference, and Agents" />
+
 # Pradeep K
 
 ### AI Engineer · Faster Inference · More Reliable Agents
@@ -13,6 +15,10 @@ observable agent products.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pradeepkarna1120@gmail.com)
 
 `Bengaluru, India` · Open to AI Engineer, AI Inference Engineer, LLM Engineer, and GenAI roles
+
+[![Inference](https://img.shields.io/badge/Inference-2563EB?style=for-the-badge)](https://github.com/pradeek1120/llm-kernel-optimization-amd-mi355x)
+[![Agents](https://img.shields.io/badge/Agents-06B6D4?style=for-the-badge)](https://github.com/pradeek1120/Multi-Agent-Productivity-Assistant)
+[![Reliable AI](https://img.shields.io/badge/Reliable%20AI-10B981?style=for-the-badge)](https://github.com/pradeek1120/self-healing-rag)
 
 </div>
 
